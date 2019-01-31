@@ -1,0 +1,543 @@
+starting program . . .
+classifications = ['classical', 'hiphop', 'jazz', 'metal', 'pop', 'reggae']
+classical.00000.jpg
+---------------------------------------
+the object appears to be a classical, 42.84% confidence
+classical (0.42840)
+pop (0.20251)
+jazz (0.17806)
+reggae (0.14283)
+metal (0.02410)
+hiphop (0.02410)
+classical.00001.jpg
+---------------------------------------
+the object appears to be a classical, 38.35% confidence
+classical (0.38346)
+jazz (0.27520)
+pop (0.22142)
+reggae (0.07768)
+metal (0.03213)
+hiphop (0.01011)
+classical.00002.jpg
+---------------------------------------
+the object appears to be a jazz, 34.05% confidence
+jazz (0.34054)
+classical (0.24641)
+pop (0.23000)
+reggae (0.08417)
+metal (0.07808)
+hiphop (0.02082)
+classical.00003.jpg
+---------------------------------------
+the object appears to be a classical, 76.22% confidence
+classical (0.76222)
+jazz (0.15152)
+pop (0.05267)
+reggae (0.02697)
+metal (0.00514)
+hiphop (0.00147)
+classical.00004.jpg
+---------------------------------------
+the object appears to be a classical, 43.89% confidence
+classical (0.43894)
+pop (0.30393)
+jazz (0.12824)
+reggae (0.09244)
+hiphop (0.02628)
+metal (0.01016)
+classical.00005.jpg
+---------------------------------------
+the object appears to be a classical, 86.35% confidence
+classical (0.86351)
+jazz (0.06985)
+reggae (0.02949)
+pop (0.02786)
+metal (0.00748)
+hiphop (0.00181)
+classical.00006.jpg
+---------------------------------------
+the object appears to be a classical, 83.81% confidence
+classical (0.83806)
+jazz (0.08030)
+reggae (0.04789)
+pop (0.01824)
+metal (0.01316)
+hiphop (0.00235)
+classical.00007.jpg
+---------------------------------------
+the object appears to be a classical, 88.16% confidence
+classical (0.88157)
+jazz (0.06916)
+reggae (0.02604)
+pop (0.01830)
+metal (0.00405)
+hiphop (0.00088)
+classical.00008.jpg
+---------------------------------------
+the object appears to be a classical, 72.26% confidence
+classical (0.72257)
+jazz (0.15512)
+reggae (0.06518)
+pop (0.03834)
+metal (0.01324)
+hiphop (0.00554)
+classical.00009.jpg
+---------------------------------------
+the object appears to be a classical, 91.79% confidence
+classical (0.91792)
+jazz (0.04704)
+pop (0.02026)
+reggae (0.01122)
+metal (0.00293)
+hiphop (0.00064)
+hiphop.00000.jpg
+---------------------------------------
+the object appears to be a hiphop, 45.95% confidence
+hiphop (0.45952)
+pop (0.22851)
+reggae (0.14958)
+metal (0.06562)
+jazz (0.05256)
+classical (0.04421)
+hiphop.00001.jpg
+---------------------------------------
+the object appears to be a hiphop, 59.13% confidence
+hiphop (0.59126)
+pop (0.23490)
+reggae (0.14013)
+jazz (0.01165)
+metal (0.01147)
+classical (0.01058)
+hiphop.00002.jpg
+---------------------------------------
+the object appears to be a hiphop, 58.33% confidence
+hiphop (0.58331)
+reggae (0.20130)
+pop (0.14466)
+jazz (0.03511)
+metal (0.02415)
+classical (0.01148)
+hiphop.00003.jpg
+---------------------------------------
+the object appears to be a hiphop, 68.05% confidence
+hiphop (0.68054)
+pop (0.17104)
+reggae (0.08118)
+metal (0.03893)
+jazz (0.02572)
+classical (0.00259)
+hiphop.00004.jpg
+---------------------------------------
+the object appears to be a hiphop, 47.43% confidence
+hiphop (0.47427)
+reggae (0.27176)
+pop (0.20271)
+jazz (0.02840)
+metal (0.01981)
+classical (0.00303)
+hiphop.00005.jpg
+---------------------------------------
+the object appears to be a hiphop, 56.10% confidence
+hiphop (0.56095)
+pop (0.21000)
+reggae (0.14038)
+metal (0.06497)
+jazz (0.01932)
+classical (0.00438)
+hiphop.00006.jpg
+---------------------------------------
+the object appears to be a hiphop, 52.16% confidence
+hiphop (0.52161)
+pop (0.31188)
+reggae (0.11066)
+jazz (0.03497)
+metal (0.01682)
+classical (0.00405)
+hiphop.00007.jpg
+---------------------------------------
+the object appears to be a metal, 43.42% confidence
+metal (0.43418)
+hiphop (0.23789)
+pop (0.19838)
+reggae (0.07108)
+jazz (0.05796)
+classical (0.00051)
+hiphop.00008.jpg
+---------------------------------------
+the object appears to be a hiphop, 55.26% confidence
+hiphop (0.55264)
+reggae (0.20571)
+pop (0.20260)
+jazz (0.01842)
+metal (0.01045)
+classical (0.01019)
+hiphop.00009.jpg
+---------------------------------------
+the object appears to be a hiphop, 56.29% confidence
+hiphop (0.56290)
+pop (0.19412)
+reggae (0.12454)
+jazz (0.06820)
+metal (0.04405)
+classical (0.00620)
+jazz.00000.jpg
+---------------------------------------
+the object appears to be a classical, 29.90% confidence
+classical (0.29899)
+jazz (0.27795)
+metal (0.15791)
+reggae (0.14895)
+pop (0.08157)
+hiphop (0.03463)
+jazz.00001.jpg
+---------------------------------------
+the object appears to be a jazz, 43.21% confidence
+jazz (0.43206)
+classical (0.19660)
+metal (0.14554)
+reggae (0.13987)
+pop (0.06189)
+hiphop (0.02405)
+jazz.00002.jpg
+---------------------------------------
+the object appears to be a jazz, 64.18% confidence
+jazz (0.64177)
+classical (0.33068)
+pop (0.01205)
+reggae (0.00825)
+hiphop (0.00406)
+metal (0.00320)
+jazz.00003.jpg
+---------------------------------------
+the object appears to be a classical, 68.94% confidence
+classical (0.68938)
+jazz (0.18050)
+metal (0.07067)
+reggae (0.02887)
+pop (0.01885)
+hiphop (0.01173)
+jazz.00004.jpg
+---------------------------------------
+the object appears to be a jazz, 84.94% confidence
+jazz (0.84944)
+classical (0.08096)
+pop (0.03563)
+metal (0.01738)
+reggae (0.01273)
+hiphop (0.00386)
+jazz.00005.jpg
+---------------------------------------
+the object appears to be a jazz, 62.01% confidence
+jazz (0.62014)
+classical (0.21541)
+metal (0.08046)
+reggae (0.05208)
+pop (0.01635)
+hiphop (0.01555)
+jazz.00006.jpg
+---------------------------------------
+the object appears to be a jazz, 67.83% confidence
+jazz (0.67829)
+classical (0.12827)
+metal (0.08657)
+pop (0.04948)
+reggae (0.04497)
+hiphop (0.01241)
+jazz.00007.jpg
+---------------------------------------
+the object appears to be a jazz, 66.34% confidence
+jazz (0.66337)
+pop (0.15469)
+metal (0.09055)
+classical (0.04012)
+reggae (0.02840)
+hiphop (0.02286)
+jazz.00008.jpg
+---------------------------------------
+the object appears to be a jazz, 65.95% confidence
+jazz (0.65951)
+metal (0.22218)
+reggae (0.04917)
+classical (0.03357)
+pop (0.02626)
+hiphop (0.00931)
+jazz.00009.jpg
+---------------------------------------
+the object appears to be a metal, 34.09% confidence
+metal (0.34094)
+jazz (0.26371)
+pop (0.21881)
+classical (0.08126)
+reggae (0.06373)
+hiphop (0.03156)
+metal.00000.jpg
+---------------------------------------
+the object appears to be a metal, 51.13% confidence
+metal (0.51133)
+jazz (0.30450)
+pop (0.11726)
+hiphop (0.04414)
+reggae (0.01754)
+classical (0.00522)
+metal.00001.jpg
+---------------------------------------
+the object appears to be a metal, 82.62% confidence
+metal (0.82621)
+jazz (0.08483)
+pop (0.05225)
+hiphop (0.02144)
+reggae (0.01363)
+classical (0.00164)
+metal.00002.jpg
+---------------------------------------
+the object appears to be a pop, 29.16% confidence
+pop (0.29165)
+metal (0.23087)
+jazz (0.17875)
+hiphop (0.13282)
+reggae (0.12590)
+classical (0.04002)
+metal.00003.jpg
+---------------------------------------
+the object appears to be a metal, 63.25% confidence
+metal (0.63248)
+pop (0.19744)
+jazz (0.09580)
+hiphop (0.04631)
+reggae (0.02502)
+classical (0.00295)
+metal.00004.jpg
+---------------------------------------
+the object appears to be a metal, 55.05% confidence
+metal (0.55052)
+hiphop (0.19397)
+jazz (0.09547)
+pop (0.07385)
+reggae (0.06794)
+classical (0.01825)
+metal.00005.jpg
+---------------------------------------
+the object appears to be a metal, 52.74% confidence
+metal (0.52735)
+jazz (0.17713)
+hiphop (0.14879)
+pop (0.08293)
+reggae (0.05083)
+classical (0.01295)
+metal.00006.jpg
+---------------------------------------
+the object appears to be a jazz, 34.75% confidence
+jazz (0.34752)
+metal (0.25721)
+pop (0.14789)
+hiphop (0.14170)
+reggae (0.07107)
+classical (0.03461)
+metal.00007.jpg
+---------------------------------------
+the object appears to be a metal, 58.46% confidence
+metal (0.58456)
+pop (0.19892)
+jazz (0.08264)
+hiphop (0.06484)
+reggae (0.04465)
+classical (0.02440)
+metal.00008.jpg
+---------------------------------------
+the object appears to be a metal, 42.65% confidence
+metal (0.42648)
+pop (0.23801)
+jazz (0.17621)
+hiphop (0.12004)
+reggae (0.03247)
+classical (0.00678)
+metal.00009.jpg
+
+---------------------------------------
+the object appears to be a metal, 66.74% confidence
+metal (0.66741)
+hiphop (0.12155)
+pop (0.10315)
+jazz (0.06575)
+reggae (0.03998)
+classical (0.00217)
+pop.00000.jpg
+---------------------------------------
+the object appears to be a pop, 44.02% confidence
+pop (0.44022)
+jazz (0.28314)
+metal (0.10509)
+hiphop (0.08413)
+reggae (0.07572)
+classical (0.01171)
+pop.00001.jpg
+---------------------------------------
+the object appears to be a pop, 64.21% confidence
+pop (0.64214)
+hiphop (0.19928)
+reggae (0.07677)
+metal (0.04220)
+jazz (0.03821)
+classical (0.00140)
+pop.00002.jpg
+---------------------------------------
+the object appears to be a metal, 32.14% confidence
+metal (0.32144)
+pop (0.29018)
+jazz (0.26503)
+reggae (0.05459)
+classical (0.03925)
+hiphop (0.02950)
+pop.00003.jpg
+---------------------------------------
+the object appears to be a metal, 65.16% confidence
+metal (0.65158)
+hiphop (0.12160)
+pop (0.11199)
+jazz (0.06787)
+reggae (0.04553)
+classical (0.00143)
+pop.00004.jpg
+---------------------------------------
+the object appears to be a metal, 54.98% confidence
+metal (0.54975)
+jazz (0.32914)
+pop (0.05778)
+reggae (0.03752)
+hiphop (0.02444)
+classical (0.00136)
+pop.00005.jpg
+---------------------------------------
+the object appears to be a jazz, 73.62% confidence
+jazz (0.73618)
+pop (0.08263)
+metal (0.08151)
+hiphop (0.03968)
+reggae (0.03054)
+classical (0.02946)
+pop.00006.jpg
+---------------------------------------
+the object appears to be a jazz, 40.02% confidence
+jazz (0.40024)
+metal (0.31734)
+pop (0.10307)
+reggae (0.09597)
+hiphop (0.07597)
+classical (0.00740)
+pop.00007.jpg
+---------------------------------------
+the object appears to be a jazz, 73.52% confidence
+jazz (0.73520)
+pop (0.10921)
+metal (0.05663)
+classical (0.05552)
+reggae (0.03044)
+hiphop (0.01300)
+pop.00008.jpg
+---------------------------------------
+the object appears to be a jazz, 49.47% confidence
+jazz (0.49468)
+metal (0.26798)
+pop (0.15703)
+reggae (0.04181)
+hiphop (0.02683)
+classical (0.01167)
+pop.00009.jpg
+---------------------------------------
+the object appears to be a metal, 45.88% confidence
+metal (0.45881)
+pop (0.18276)
+hiphop (0.15639)
+jazz (0.14416)
+reggae (0.05492)
+classical (0.00296)
+reggae.00000.jpg
+---------------------------------------
+the object appears to be a jazz, 31.17% confidence
+jazz (0.31174)
+reggae (0.27546)
+pop (0.25970)
+metal (0.08528)
+classical (0.03837)
+hiphop (0.02945)
+reggae.00001.jpg
+---------------------------------------
+the object appears to be a metal, 56.53% confidence
+metal (0.56528)
+jazz (0.14174)
+pop (0.13249)
+reggae (0.07884)
+hiphop (0.07293)
+classical (0.00872)
+reggae.00002.jpg
+---------------------------------------
+the object appears to be a pop, 35.20% confidence
+pop (0.35205)
+reggae (0.32301)
+hiphop (0.25067)
+metal (0.04100)
+jazz (0.02637)
+classical (0.00690)
+reggae.00003.jpg
+---------------------------------------
+the object appears to be a metal, 37.03% confidence
+metal (0.37030)
+reggae (0.30191)
+pop (0.12552)
+jazz (0.10289)
+hiphop (0.09099)
+classical (0.00839)
+reggae.00004.jpg
+---------------------------------------
+the object appears to be a reggae, 40.54% confidence
+reggae (0.40541)
+pop (0.40221)
+jazz (0.06691)
+hiphop (0.06038)
+classical (0.04822)
+metal (0.01686)
+reggae.00005.jpg
+---------------------------------------
+the object appears to be a reggae, 38.81% confidence
+reggae (0.38805)
+hiphop (0.20265)
+pop (0.17292)
+metal (0.12336)
+jazz (0.07342)
+classical (0.03960)
+reggae.00006.jpg
+---------------------------------------
+the object appears to be a reggae, 43.03% confidence
+reggae (0.43028)
+pop (0.18200)
+jazz (0.17877)
+metal (0.12597)
+hiphop (0.04683)
+classical (0.03615)
+reggae.00007.jpg
+---------------------------------------
+the object appears to be a reggae, 60.54% confidence
+reggae (0.60544)
+pop (0.15674)
+hiphop (0.10310)
+metal (0.08825)
+jazz (0.03198)
+classical (0.01450)
+reggae.00008.jpg
+---------------------------------------
+the object appears to be a pop, 34.92% confidence
+pop (0.34920)
+jazz (0.25686)
+reggae (0.18462)
+metal (0.15655)
+hiphop (0.03829)
+classical (0.01448)
+reggae.00009.jpg
+---------------------------------------
+the object appears to be a reggae, 52.61% confidence
+reggae (0.52606)
+metal (0.17811)
+hiphop (0.12295)
+jazz (0.09480)
+pop (0.07502)
+classical (0.00306)

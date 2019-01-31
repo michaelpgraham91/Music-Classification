@@ -1,0 +1,4 @@
+Series {
+    -> SoundFileSource { filename = "../songs/tooth.wav" }
+    -> AudioSink
+}

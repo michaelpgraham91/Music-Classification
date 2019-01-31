@@ -1,0 +1,6 @@
+classical
+hiphop
+jazz
+metal
+pop
+reggae

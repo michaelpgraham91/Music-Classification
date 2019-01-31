@@ -1,0 +1,31 @@
+.DS_Store
+.ipynb_checkpoints
+*.pyc
+__pycache__
+*.egg-info
+build/*
+dist/*
+*~
+.cache
+.coverage
+checkpoint
+htmlcov
+mnist
+*.zip
+*~
+events.out*
+bottleneck_data
+tensorboard_logs
+
+# Virtualenv
+# http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
+.Python
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+pyvenv.cfg
+.venv
+pip-selfcheck.json
